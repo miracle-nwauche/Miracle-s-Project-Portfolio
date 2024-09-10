@@ -1,7 +1,9 @@
 # Miracle-s-Project-Portfolio
 ## Project Title: Nittany Lion Bank Case Study (IST 302 Case Study: Project Management) 
 (NLNB WBS is the Microsoft Project that includes the information below)
+
 (Risk Register is a key component of the project)
+
 Key Roles 
 - Played the Role of the Project Manager throughout the project's life cycle
 - Scheduled the weekly meetings between the EY representative and conducted consensus for project's planning
