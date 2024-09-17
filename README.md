@@ -13,3 +13,11 @@ Executive Summary:
   The team was tasked with delivering a risk assessment tool that evaluated current and future IT risks, identifed high-risk areas, and presented a strategic plan for risk mitigation. The team provided a detailed analysis of the bank's IT infrastructure, vendor relationships, and the potential impact of vendor failures on the bank's operations. The project enhanced NLNB's risk management capabilities, ensuring the security of client assets and the reliability of IT systems.   
 
 (Inserted a PDF version and .docx version which is the reason for duplicated objects)
+
+
+## IST 220  Network & Telecommunications Project 
+
+Key Roles 
+- Security Management through controls and policies for concatenation
+- Explained the use of FERPA (Family Educational Rights and Privacy Act) policy in alignment with network diagram for data loss prevention
+- Aligned VPN responsiblities with accordance to guidelines protecting health information, computer fraud, as well as State and Local provacy acts 
