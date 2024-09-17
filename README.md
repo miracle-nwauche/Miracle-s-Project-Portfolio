@@ -15,6 +15,22 @@ Executive Summary:
 (Inserted a PDF version and .docx version which is the reason for duplicated objects)
 
 
+## Flix2You Database Administration Project 
+
+Key Roles 
+- Lead Database Administrator dealing with the implementation of queries for the creation of tables using primary and foreign key functionality
+- The connection between the tables was represented with various diagrams such as Entity-Relationship and Data Schema scripts that demonstrate the flow of data
+- Transformed the original normalization of data sets from First Normal Form to Third normal form to reduce duplication of data elements because the redundancy is needed due to the elements used to make a movie rental site
+- Insert, alter, and create table queries implemented into the database
+- Revamped the entirety of a movie rental website with the use of SQL in a group
+
+Executive Summary: This project focuses on addressing the growing need for reliable data and network architectures driven by digital transformation and remote consumer interactions. The solution includes designing and implementing a new database system through subject matter of the current architecture and data mapping. Key system requirements such as permission sets, role responsibilities, and legal considerations are outlined, with both development and production environments deployed. By testing to ensure reliability and security, this project ultimately enhances operational efficiency for the movie rental site.
+  
+
+
+
+
+
 ## IST 220  Network & Telecommunications Project 
 
 Key Roles 
