@@ -40,4 +40,7 @@ Key Roles
 
   Executive Summary:
   A network was designed to provide reliable connectivity between apartment buildings in State College while ensuring data security. The plan outlined key requirements such as network segments, connected systems, site locations, and Wi-Fi access. Security needs were assessed, focusing on compliance with laws like FERPA, HIPAA, and PCI-DSS. The network design featured Site-to-Site connectivity, Main site, and Typical Local Site configurations, with security systems including VPN servers, firewalls, and intrusion detection. 
-  
+
+
+  ## Loan Calculator Java Project
+- Created 
