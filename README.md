@@ -43,4 +43,8 @@ Key Roles
 
 
   ## Loan Calculator Java Project
-- Created 
+  Code located in Loan Calculator --> src --> Main.Java
+  - Created principal, annual interest rate, and number of months using a do loop
+  - Calculated Simple interest payment and amortized repayment schedule
+  - Methods created to print simple interest schedule, calculate total interest paid for simple interest loan and monthly payment
+  - Method Created to calculate and print amortized loan schedule and interest paid for amortized loan 
