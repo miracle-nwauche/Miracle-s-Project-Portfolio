@@ -20,4 +20,8 @@ Executive Summary:
 Key Roles 
 - Security Management through controls and policies for concatenation
 - Explained the use of FERPA (Family Educational Rights and Privacy Act) policy in alignment with network diagram for data loss prevention
-- Aligned VPN responsiblities with accordance to guidelines protecting health information, computer fraud, as well as State and Local provacy acts 
+- Aligned VPN responsiblities with accordance to guidelines protecting health information, computer fraud, as well as State and Local privacy acts
+
+  Executive Summary:
+  A network was designed to provide reliable connectivity between apartment buildings in State College while ensuring data security. The plan outlined key requirements such as network segments, connected systems, site locations, and Wi-Fi access. Security needs were assessed, focusing on compliance with laws like FERPA, HIPAA, and PCI-DSS. The network design featured Site-to-Site connectivity, Main site, and Typical Local Site configurations, with security systems including VPN servers, firewalls, and intrusion detection. 
+  
